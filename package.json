@@ -1,0 +1,23 @@
+{
+  "name": "feeltree-ejet-calculate",
+  "version": "1.0.0",
+  "description": "FeelTree E-jets V2 Calculate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudemirtech/feeltree-ejet-calculate.git"
+  },
+  "keywords": [
+    "FeelTree",
+    "E-jets"
+  ],
+  "author": "Gallium",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudemirtech/feeltree-ejet-calculate/issues"
+  },
+  "homepage": "https://github.com/claudemirtech/feeltree-ejet-calculate#readme"
+}
